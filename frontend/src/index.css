@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+input, textarea {
+    @apply px-4 py-2 rounded-md border border-blue-500
+}
